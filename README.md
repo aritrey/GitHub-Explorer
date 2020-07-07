@@ -11,4 +11,6 @@ RocketSeat BootCamp - an app to explore github repositories, built with Node and
 - error message when search form is empty/repository not found
 
 ## Preview
-[here you can see the preview of the github explorer: https://github.com/aritrey/GitHub-Explorer/blob/master/assets/demo.gif](https://github.com/aritrey/GitHub-Explorer/blob/master/assets/demo.gif)
+
+
+![here you can see the preview of the github explorer: https://github.com/aritrey/GitHub-Explorer/blob/master/assets/demo.gif](https://github.com/aritrey/GitHub-Explorer/blob/master/assets/demo.gif)

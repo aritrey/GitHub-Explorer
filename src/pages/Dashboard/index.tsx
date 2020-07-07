@@ -75,7 +75,7 @@ const Dashboard = () => {
       {inputError&&<Error>{inputError}</Error>}
       {repositories.map(repository=>
       <Repositories key={repository.full_name}>
-        <Link to="test">
+        <Link to={`/repository/${repository.full_name}`}>
           <img
             src={repository.owner.avatar_url}
             alt={repository.owner.login}
